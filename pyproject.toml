@@ -10,6 +10,7 @@ packages = [{include = "radar_iot"}]
 python = "^3.9"
 fastapi = {extras = ["all"], version = "^0.109.2"}
 paho-mqtt = "^2.0.0"
+ksoc-connection = {git = "https://github.com/lianyun0502/KSOC_Connection.git"}
 
 
 [build-system]
