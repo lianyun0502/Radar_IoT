@@ -309,7 +309,7 @@ i18n = ["Babel (>=2.7)"]
 
 [[package]]
 name = "ksoc-connection"
-version = "0.1.2"
+version = "0.1.5"
 description = "Develop for KKT SoC connection"
 category = "main"
 optional = false
@@ -326,7 +326,7 @@ pywin32 = "^306"
 type = "git"
 url = "https://github.com/lianyun0502/KSOC_Connection.git"
 reference = "HEAD"
-resolved_reference = "3a2fd1d842ae339c90818833def9f8240bf5a91c"
+resolved_reference = "c6b6485c6e60b71c191241572e169cc73a508809"
 
 [[package]]
 name = "markupsafe"
